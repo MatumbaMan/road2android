@@ -1,7 +1,7 @@
 # Android学习路线
 ## 程序设计
 ### 一、java
-####（a）基本语法(如继承、异常、引用、泛型等)
+#### （a）基本语法(如继承、异常、引用、泛型等)
 * [Java核心技术 卷I](https://book.douban.com/subject/25762168/)（适合入门）
 * 进阶
     * [Effective Java中文版](https://book.douban.com/subject/3360807/)（如何写好的Java代码）
